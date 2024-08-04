@@ -1,0 +1,6 @@
+How to add a file to your repository
+On GitHub.com, navigate to the main page of the repository.
+In your repository, browse to the folder where you want to create a file.
+Above the list of files, select the Add file ᐁ drop-down menu, 
+then select Create new file. You might also have a Get started by creating a new file link. Alternatively,
+you can select the plus icon (+) in the file tree view on the left.
